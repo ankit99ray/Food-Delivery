@@ -2,7 +2,7 @@ export const CDN_URL = "https://media-assets.swiggy.com/swiggy/image/upload/fl_l
 
 export const LOGO_URL = "https://i.pinimg.com/originals/34/0c/6a/340c6add7519212185a08d4205eb1965.png";
 
-export const MENU_API = "https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=28.7040592&lng=77.10249019999999&restaurantId=";
+export const MENU_API = "https://proxy.cors.sh/https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=28.7040592&lng=77.10249019999999&restaurantId=";
 
 export const ABOUT_US_ICON = (<i className="fa-solid fa-address-book"></i>);
 
